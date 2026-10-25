@@ -1,0 +1,43 @@
+\selectlanguage *{russian}
+\contentsline {section}{ВВЕДЕНИЕ}{4}{Doc-Start}%
+\contentsline {section}{\numberline {1}Техническое задание}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Введение}{6}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Наименование программы}{6}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Область применения}{6}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Основание для разработки}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Назначение разработки}{6}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Требования к программе}{7}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Функциональные требования}{7}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Требования к надёжности}{8}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Требования к техническим и программным средствам}{8}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Требования к входным и выходным данным}{8}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}Требования к программной документации}{8}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Этапы разработки}{9}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Обзор способов организации данных}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Массив фиксированного размера}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Связный список}{10}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Ассоциативные контейнеры}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Динамический массив}{10}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Представление необязательного балла}{11}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Оценка сложности}{11}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Описание программы}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общие сведения}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Архитектура и состав модулей}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Модель данных}{12}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Описание основных алгоритмов}{13}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Регистрация участника}{13}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Завершение регистрации}{13}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Регистрация балла}{13}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Сортировка результатов}{14}{subsubsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.5}Определение призёров}{14}{subsubsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.5}Файловое хранение}{14}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Пользовательский интерфейс}{15}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Сборка и запуск}{15}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Тестирование программы}{16}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Методика тестирования}{16}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Контрольные примеры}{16}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Анализ результатов}{17}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Ограничения текущей версии}{17}{subsection.4.4}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{18}{subsection.4.4}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{19}{subsection.4.4}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А}{20}{Item.14}%
