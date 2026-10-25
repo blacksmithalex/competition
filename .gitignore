@@ -1,0 +1,11 @@
+/build/
+/participants.txt
+/participants.txt.tmp
+/results.txt
+/.idea/
+/.vs/
+/.vscode/
+*.user
+*.suo
+*.VC.db
+.DS_Store
